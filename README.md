@@ -79,7 +79,7 @@ Open the `PacMan.sln` file in Visual Studio.
 
 ### Start the Game
 
-Press any key on the initial start screen to begin your arcade adventure!
+Press button in the initial start screen to begin your arcade adventure!
 
 ### Controls
 

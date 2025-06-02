@@ -1,0 +1,16 @@
+C:\Users\ignas\Desktop\pacman v1.2\pac-man v1.2\pac-man v1.2\bin\Debug\net8.0-windows\pac-man v1.2.exe
+C:\Users\ignas\Desktop\pacman v1.2\pac-man v1.2\pac-man v1.2\bin\Debug\net8.0-windows\pac-man v1.2.deps.json
+C:\Users\ignas\Desktop\pacman v1.2\pac-man v1.2\pac-man v1.2\bin\Debug\net8.0-windows\pac-man v1.2.runtimeconfig.json
+C:\Users\ignas\Desktop\pacman v1.2\pac-man v1.2\pac-man v1.2\bin\Debug\net8.0-windows\pac-man v1.2.dll
+C:\Users\ignas\Desktop\pacman v1.2\pac-man v1.2\pac-man v1.2\bin\Debug\net8.0-windows\pac-man v1.2.pdb
+C:\Users\ignas\Desktop\pacman v1.2\pac-man v1.2\pac-man v1.2\obj\Debug\net8.0-windows\pac_man_v1._2.Form1.resources
+C:\Users\ignas\Desktop\pacman v1.2\pac-man v1.2\pac-man v1.2\obj\Debug\net8.0-windows\pac-man v1.2.csproj.GenerateResource.cache
+C:\Users\ignas\Desktop\pacman v1.2\pac-man v1.2\pac-man v1.2\obj\Debug\net8.0-windows\pac-man v1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignas\Desktop\pacman v1.2\pac-man v1.2\pac-man v1.2\obj\Debug\net8.0-windows\pac-man v1.2.AssemblyInfoInputs.cache
+C:\Users\ignas\Desktop\pacman v1.2\pac-man v1.2\pac-man v1.2\obj\Debug\net8.0-windows\pac-man v1.2.AssemblyInfo.cs
+C:\Users\ignas\Desktop\pacman v1.2\pac-man v1.2\pac-man v1.2\obj\Debug\net8.0-windows\pac-man v1.2.csproj.CoreCompileInputs.cache
+C:\Users\ignas\Desktop\pacman v1.2\pac-man v1.2\pac-man v1.2\obj\Debug\net8.0-windows\pac-man v1.2.dll
+C:\Users\ignas\Desktop\pacman v1.2\pac-man v1.2\pac-man v1.2\obj\Debug\net8.0-windows\refint\pac-man v1.2.dll
+C:\Users\ignas\Desktop\pacman v1.2\pac-man v1.2\pac-man v1.2\obj\Debug\net8.0-windows\pac-man v1.2.pdb
+C:\Users\ignas\Desktop\pacman v1.2\pac-man v1.2\pac-man v1.2\obj\Debug\net8.0-windows\pac-man v1.2.genruntimeconfig.cache
+C:\Users\ignas\Desktop\pacman v1.2\pac-man v1.2\pac-man v1.2\obj\Debug\net8.0-windows\ref\pac-man v1.2.dll
